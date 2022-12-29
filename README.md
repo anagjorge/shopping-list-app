@@ -1,4 +1,4 @@
-# shoppingList-app
+# ShoppingList App
 ShoppingList application with the functions of a CRUD, implemented in the MVVM architecture using Kotlin.
 
 
